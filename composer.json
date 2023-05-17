@@ -1,0 +1,17 @@
+{
+    "name": "llucasbrasill/app",
+    "autoload": {
+        "psr-4": {
+            "Llucasbrasill\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas P. Sodré",
+            "email": "lucas@llucasbrasill.com"
+        }
+    ],
+    "require": {
+        "php": "*"
+    }
+}
